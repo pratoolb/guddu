@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pratool Bharti"
   avatar           : "profile.png"
-  bio              : "Assistant Professor <br> Computer Science <br> Northern Illinois University"
+  bio              : "Assistant Professor <br> <a href="http://www.cs.niu.edu/">Computer Science</a><br> Northern Illinois University"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
